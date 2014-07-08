@@ -10,17 +10,17 @@ Where Does My Money Go? β版（2012年7月1日稼働）は、三鷹市民が三
 
 
 三鷹市 Ver.:
-堀田　直孝(Naotaka Jay Hotta), @jhotta
+- 堀田　直孝(Naotaka Jay Hotta), @jhotta
 
 Core Team: (@は Twitter Account)
-伊藤　大貴(Hirotaka Itou), @hirochan (Adviser)
-川島　宏一(Hiroichi Kawashima), @hiroichi_k (Coordinator)
-佐藤　宏之(Hiroyuki Sato), @sa2hi (Linked Open Data化)
-関　治之(Hal Seki:@hal_sk), Hack For Japan (Developer)
-高木　祐介(Takagi Yuusuke:@nyatakasan), (Developer)
-高野　光弘(TAKANO Mitsuhiro), @takano32 (Developer)
-竹内　久知(Takeuchi Hisatomo:@3Dfalcon), 機能型3Dアルバム (Designer)
-田島　逸郎(Itsuro Tajima), @niryuu (Developer)
-玉木　光(Tamaki Hikaru), Pearlpuppy.com (Designer)
-西林　孝(Takashi Nishibayashi), @hagino3000 (Developer)
-藤村　良弘(Fujimura Yoshihiro), Facebook:Fujimura Yoshihiro (Policy Analyst)
+- 伊藤　大貴(Hirotaka Itou), @hirochan (Adviser)
+- 川島　宏一(Hiroichi Kawashima), @hiroichi_k (Coordinator)
+- 佐藤　宏之(Hiroyuki Sato), @sa2hi (Linked Open Data化)
+- 関　治之(Hal Seki:@hal_sk), Hack For Japan (Developer)
+- 高木　祐介(Takagi Yuusuke:@nyatakasan), (Developer)
+- 高野　光弘(TAKANO Mitsuhiro), @takano32 (Developer)
+- 竹内　久知(Takeuchi Hisatomo:@3Dfalcon), 機能型3Dアルバム (Designer)
+- 田島　逸郎(Itsuro Tajima), @niryuu (Developer)
+- 玉木　光(Tamaki Hikaru), Pearlpuppy.com (Designer)
+- 西林　孝(Takashi Nishibayashi), @hagino3000 (Developer)
+- 藤村　良弘(Fujimura Yoshihiro), Facebook:Fujimura Yoshihiro (Policy Analyst)
