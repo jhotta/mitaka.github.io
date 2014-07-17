@@ -4,7 +4,7 @@ wheredoesmymoney.orgの三鷹市バージョンです．
 
 横浜バージョンから派生しました。
 
-データ・ソースは [http://openspending.org/jptokyokoganeibudget](http://openspending.org/jptokyokoganeibudget)
+データ・ソースは [http://openspending.org/jptokyomitakabudget](http://openspending.org/jptokyomitakabudget)
 
 三鷹市 Ver.:
 - 堀田　直孝(Naotaka Jay Hotta), @jhotta
